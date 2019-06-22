@@ -2,9 +2,9 @@
 
 Three implementations of fog/haze removal algorithms:
 
-[1] 	FAST SINGLE IMAGE FOG REMOVAL USING EDGE-PRESERVING SMOOTHING; Jing Yu, Qingmin Liao
-[2]	Single Image Fog Removal Using Bilateral Filter; Abhishek Kumar Tripathi, Sudipta Mukhopadhyay
-[3] 	Atmospheric scattering-based multiple images fog removal; Zhang Tao, Shao Changyan ,Wang Xinnian 
+[1] 	FAST SINGLE IMAGE FOG REMOVAL USING EDGE-PRESERVING SMOOTHING; Jing Yu, Qingmin Liao   
+[2]	Single Image Fog Removal Using Bilateral Filter; Abhishek Kumar Tripathi, Sudipta Mukhopadhyay   
+[3] 	Atmospheric scattering-based multiple images fog removal; Zhang Tao, Shao Changyan ,Wang Xinnian    
 
 ### Prerequisites
 
@@ -31,7 +31,7 @@ No installation needed.
 
 ## Example
 
-Results comparison with [1]* and [2]*
+Results comparison with [1]* and [2]*   
 ![Example](/images/results.png)
 
 ## Authors
